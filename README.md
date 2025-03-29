@@ -1,5 +1,6 @@
 # Multi-Orientation Adversarial Patch 🛡️
-[![🚀 Open In Colab](https://colab.research.google.com/drive/1q7P3rQt5di3NT-V2iR0xGsEKHqw7LXm6?usp=sharing)
+
+[![🚀 Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q7P3rQt5di3NT-V2iR0xGsEKHqw7LXm6?usp=sharing)
 
 This repository explores the creation and evaluation of adversarial patches for deep learning models, focusing on targeted attacks and the impact of patch rotation.
 
