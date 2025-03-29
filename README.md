@@ -1,7 +1,7 @@
 # Multi-Orientation Adversarial Patch 🛡️
 
 This repository explores the creation and evaluation of adversarial patches for deep learning models, focusing on targeted attacks and the impact of patch rotation.
-
+[View Notebook in Colab]([https://colab.research.google.com/drive/your_notebook_id](https://colab.research.google.com/drive/1q7P3rQt5di3NT-V2iR0xGsEKHqw7LXm6?usp=sharing))
 ## Description 📝
 
 The notebook investigates two methodologies for generating adversarial patches:
@@ -18,15 +18,6 @@ The notebook includes a range of experiments, including:
 - **Baseline Patch Evaluation:** Tests patches with no rotation to understand their basic effectiveness.
 - **Rotation Effects:** Investigates how rotations affect the attack's success, focusing on specific class targets.
 - **Patch Shape Evaluation:** Compares the performance of square patches and circular patches in the attacks.
-
-## Usage 🚀
-
-1. Clone this repository to your Google Colab environment.
-2. Upload the required datasets (Tiny ImageNet) and pre-trained models (ResNet34) using the provided instructions within the notebook.
-3. Execute the notebook cells to:
-    - Generate adversarial patches.
-    - Evaluate their performance under different rotations.
-    - Visualize patches and model predictions.
 
 ## Results 📊
 
